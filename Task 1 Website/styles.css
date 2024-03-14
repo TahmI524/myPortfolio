@@ -1,0 +1,50 @@
+body {
+    background-color:blanchedalmond;
+    background-image: url("images/spatialcomputing.jpg");
+
+}
+
+
+div.a {
+    text-align: center;
+}
+
+div.b {
+    text-align: left;
+}
+
+div.c {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  /*p.main {
+    text-align: justify;
+  }*/
+
+div {
+    border: 1px solid black;
+    background-color: aliceblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#borderimg {
+  border: 5px solid transparent;
+  padding: 15px;
+  border-image: url(images/spatialcomputing.jpg) 30 round;
+}
+
+footer {
+  background-color: blue;
+  padding: 40px;
+  text-align: center;
+}
